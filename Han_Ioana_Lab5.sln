@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Han_Ioana_Lab5", "Han_Ioana_Lab5.csproj", "{B4F563DA-7370-4C2D-BE26-155D6C2BE01E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoGeistModel", "AutoGeistModel\AutoGeistModel.csproj", "{5BA58C5F-E978-4426-9E03-128A38DE60FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4F563DA-7370-4C2D-BE26-155D6C2BE01E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4F563DA-7370-4C2D-BE26-155D6C2BE01E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4F563DA-7370-4C2D-BE26-155D6C2BE01E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4F563DA-7370-4C2D-BE26-155D6C2BE01E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BA58C5F-E978-4426-9E03-128A38DE60FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BA58C5F-E978-4426-9E03-128A38DE60FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BA58C5F-E978-4426-9E03-128A38DE60FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BA58C5F-E978-4426-9E03-128A38DE60FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {490DB6DF-9AB3-4FE2-B496-87ABA93A5A82}
+	EndGlobalSection
+EndGlobal
